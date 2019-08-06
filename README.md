@@ -28,9 +28,9 @@ Alternatively, you can move the zip file into the `wp-content/plugins` folder of
 
 You will then need to go to your WordPress administration Plugins page, and activate the plugin.
 
-## Configuring Coinbase Commerce
+## Configuring Busha Pay
 
-You will need to set up an account on [Coinbase Commerce].
+You will need to set up an account on [Busha Pay].
 
 Within the WordPress administration area, go to the WooCommerce > Settings > Payments page and you will see Busha in the table of payment gateways.
 
@@ -97,4 +97,4 @@ This project is licensed under the Apache 2.0 License
 [Busha Pay settings page]: <https://dashboard.pay.busha.co/dashboard/settings/>
 [WooCommerce]: <https://woocommerce.com/>
 [WordPress]: <https://wordpress.org/>
-[WordPress.org plugin repository]: <https://wordpress.org/plugins/coinbase-commerce/>
+[WordPress.org plugin repository]: <https://wordpress.org/plugins/busha-pay/>
