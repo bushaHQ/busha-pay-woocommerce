@@ -1,2 +1,2 @@
-# busha-pay-woocommerce
-Accept Bitcoin on your WooCommerce-powered website. https://pay.busha.co
+# Busha Pay for WooCommerce
+A WooCommerce payment gateway that allows your customers to pay with cryptocurrency via Busha Pay
